@@ -10,5 +10,3 @@
   003. <a href="" class="btn--success"> Javascipt </a>
   999. <a href="" class="btn--success"> etc. </a>
 
-
-  [Default Button](#){: .btn .btn--primary }
